@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="http://api.torrent-tv.ru/ttv.xmltv.xml.gz"
-#EXTINF:-1,{Обновлён 21.12.2018 20:21}
+#EXTINF:-1,{Обновлён 21.12.2021 20:25}
 https://webarmen.com/my/iptv/uploads/files/videoplayback.mp4
 #EXTINF:-1,{Группа https://vk.com/iptvweb}
 https://webarmen.com/my/iptv/uploads/files/dog.mp4
@@ -426,4 +426,4 @@ http://79.133.101.254:999/udp/239.191.254.79:13343
 http://31.41.96.24:81/udp/225.0.2.28:1234
 #EXTINF:-1 group-title="Животные" tvg-id="392" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/98.png" tvg-name="Animal Planet",Animal Planet
 #EXTGRP:Животные
-http://164.138.95.51:999/udp/239.191.254.32:13343
+http://164.138.95.51:999/udp/239.191.254.32:13
