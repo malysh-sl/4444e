@@ -61,8 +61,6 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 http://api.tv.ipnet.ua/api/v1/manifest/2118742331.m3u8
 #EXTINF:-1 ,UA:Культура
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
-#EXTINF:-1 ,KPT
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8
 #EXTINF:-1 ,Надiя
 http://stream.hope.ua/hopeua/live_1/playlist.m3u8
 #EXTINF:-1 ,Магнолия ТВ
@@ -133,8 +131,6 @@ http://80.245.112.23/2/hls/live2.m3u8
 http://q4.crimea.net/5/hls/live5.m3u8
 #EXTINF:-1 ,Львов - Оперный театр
 http://vps.guru.ua/hls/opera.m3u8
-#EXTINF:-1 ,U.HD
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
 #EXTINF:-1 ,Miami TV (18+)
 https://bozztv.com/36bay2/gin/giniko_miamitv_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Hardcore(18+)
@@ -191,8 +187,6 @@ http://ede960a1.ottv.info/iptv/7YD47MTECR4463/101/index.m3u8
 http://ede960a1.ottv.info/iptv/7YD47MTECR4463/907/index.m3u8
 #EXTINF:-1 ,Русский Бестселлер
 http://ede960a1.ottv.info/iptv/7YD47MTECR4463/905/index.m3u8
-#EXTINF:-1 ,A2_38_39
-https://sc.id-tv.kz/A2_38_39.m3u8
 #EXTINF:-1 ,HD КИНО
 https://hls.goodgame.ru/hls/12949_720.m3u8?seg-user-4pda-denms-ru-v1-a1.m3u
 #EXTINF:-1 ,Россия 1 HD
@@ -417,8 +411,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 http://myott.tv/stream/2Z5D36KMXN/172.m3u8
 #EXTINF:-1 ,Еспресо TV
 http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8?codec=mpeg4
-#EXTINF:-1 ,КРТ
-http://api.tv.ipnet.ua/api/v1/manifest/1298864660.m3u8?codec=mpeg4
 #EXTINF:-1 ,Новини 24
 http://api.tv.ipnet.ua/api/v1/manifest/1293298050.m3u8
 #EXTINF:-1 ,ATR
@@ -485,8 +477,6 @@ http://prm-hls1.cosmonova.net.ua/hls/prm_ua_mid/index.m3u8
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-480p/playlist.m3u8
 #EXTINF:-1 ,А1 (Одесса) [HD]
 http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
-#EXTINF:-1 ,Almaty TV
-https://sc.id-tv.kz/Almaty_38_39.m3u8
 #EXTINF:-1 ,DW TV English
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 ,Deejay TV
@@ -531,10 +521,6 @@ http://91.215.176.238:8000/8channel
 http://95.46.208.8:24433/art
 #EXTINF:-1 ,Almaty TV (KZ)
 http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
-#EXTINF:-1 ,Astana TV
-https://sc.id-tv.kz/Astana_38_39.m3u8
-#EXTINF:-1 ,Atameken Business TV
-https://sc.id-tv.kz/Atameken_38_39.m3u8
 #EXTINF:-1 ,Atameken Business TV (KZ)
 http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
 #EXTINF:-1 ,HTV KG
@@ -811,60 +797,26 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
 http://ua-culture-hls1.cosmonova.net.ua/hls/ua-culture_ua_mid/index.m3u8
 #EXTINF:-1 ,Вместе РФ HD
 http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Домашний
-http://176.101.224.21:8080/udp/239.195.32.10:1234
-#EXTINF:-1 ,Звезда
-http://176.101.224.21:8080/udp/239.195.32.17:1234
 #EXTINF:-1 ,Ингушетия ТВ
 http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
-#EXTINF:-1 ,Карусель
-http://176.101.224.21:8080/udp/239.195.32.20:1234
 #EXTINF:-1 ,Москва 24
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 ,Моя Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,Муз ТВ
-http://176.101.224.21:8080/udp/239.195.32.54:1234
 #EXTINF:-1 ,МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1 ,НВК Саха (Якутия) +6
 http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://176.101.224.21:8080/udp/239.195.32.7:1234
-#EXTINF:-1 ,Настоящее Время HD
-http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
-#EXTINF:-1 ,ОТР
-http://176.101.224.21:8080/udp/239.195.32.19:1234
-#EXTINF:-1 ,Первый канал
-http://176.101.224.21:8080/udp/239.195.32.1:1234
-#EXTINF:-1 ,Пятница!
-http://176.101.224.21:8080/udp/239.195.32.32:1234
-#EXTINF:-1 ,Пятый канал
-http://176.101.224.21:8080/udp/239.195.32.14:1234
-#EXTINF:-1 ,Рен ТВ
-http://176.101.224.21:8080/udp/239.195.32.18:1234
 #EXTINF:-1 ,Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 ,Россия К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
 #EXTINF:-1 ,Россия РТР
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 ,СТС
-http://176.101.224.21:8080/udp/239.195.32.8:1234
-#EXTINF:-1 ,Сонце
-http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8?codec=mpeg4
-#EXTINF:-1 ,ТВ3
-http://176.101.224.21:8080/udp/239.195.32.15:1234
-#EXTINF:-1 ,ТКР (Рязань)
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 ,ТНВ Планета
-http://tnv.bonus-tv.ru:80/cdn/tnvplanet/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Тивиком (Улан-Удэ) [FHD] +5
 http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,Хабар 24 (KZ)
 http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
-#EXTINF:-1 ,Эхо ТВ 24 (Новоуральск) +2
-http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 ,Первый канал HD
 http://dmitry-tv.my1.ru/his/01/CH_1TVHD.m3u8
 #EXTINF:-1 ,Первый канал (+6)
